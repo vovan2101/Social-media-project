@@ -1,0 +1,19 @@
+#form {
+    max-width: 50%;
+    margin-left: 25%;
+    padding: 110px;
+    
+}
+
+.form-control {
+    border-radius: 9px;
+}
+
+#button {
+    border-radius: 9px;
+    font-weight: 700;
+}
+
+#login {
+    font-weight: 700;
+}
